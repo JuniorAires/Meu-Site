@@ -129,8 +129,9 @@ ul li a {
    transition: background 1s
   
 }
-.Infor:hover{
-    cursor: none;
+.Infor{
+        pointer-events: none;
+     
 }
 
 ul li a:hover {
